@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/wp-simple-locator"]
+	path = wp-content/plugins/wp-simple-locator
+	url = https://github.com/kylephillips/wp-simple-locator.git

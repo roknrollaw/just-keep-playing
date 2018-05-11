@@ -1,4 +1,5 @@
 # Keep these files out of the repo
+/wp-content/plugins/simple-locator/vendor/league/csv
 /wp-content/upgrade
 /wp-content/uploads
 /sitemap.*
